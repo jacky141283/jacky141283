@@ -4,7 +4,8 @@
 
 <p align="center">It is Jacky, software design engineer in Bay area.
 <br>
-Welcome to my Github!
+Welcome to my Github! And check my porfolio
+<a href="https://jacky141283.github.io/CV/">here</a>
 </p>
 
 <br>
@@ -22,3 +23,4 @@ Welcome to my Github!
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <br>
+</p>
